@@ -2,9 +2,9 @@
 
 CRUD application for lawyers using
 
-Material Design
-Sqlite 
-CollapsingToolbarLayout
+Material Design . 
+Sqlite . 
+CollapsingToolbarLayout . 
 
 
 ![image](/app/src/main/assets/1.png) 
